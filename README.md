@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is a webpage about food recipes that someone may try to prepare at home. The author of this webpage aims top demonstrate his knowledge in basic HTML such as the preparation of the boilerplate, the use of <a>, <p>, <img> and many other HTML elements.
